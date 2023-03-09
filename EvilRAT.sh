@@ -51,7 +51,7 @@ echo -e "${NC}"
 read var2
 echo
 
-echo -e "${RED}Enter the output fail name:"
+echo -e "${RED}Enter the output file name:"
 #Target saved to var3
 
 echo -e "${NC}"
